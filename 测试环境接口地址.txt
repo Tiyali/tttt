@@ -1,0 +1,11 @@
+激活注册[数据加密后返回]:http://192.168.1.90:5051/youguu/newsrest/member/doautoregister/1000001/asdasd12312dasd/GT9100/800*600/2.3/GPRS/yd/111
+
+登录验证:http://192.168.1.90:5051/youguu/newsrest/member/dologon/1000001/987654433321/1
+
+频道列表:http://192.168.1.90:5051/youguu/newsrest/info/channellist/1000001/zs/1
+
+资讯列表:http://192.168.1.90:5051/youguu/newsrest/info/infolist/1000001/zs/1/800*480/1/1/20
+
+资讯正文:http://192.168.1.90:5051/youguu/newsrest/info/infodetail/1000001/zs/1/800*480/1/1/1/1
+
+资讯评价:http://192.168.1.90:5051/youguu/newsrest/info/infopj/1000001/zs/1/1/1/1
